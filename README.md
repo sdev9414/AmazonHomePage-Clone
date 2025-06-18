@@ -1,2 +1,2 @@
 # AmazonHomePage-Clone
-A clone for amazon's home page
+A basic clone for amazon's home page with CSS
